@@ -20,5 +20,6 @@ This project implements a backend matchmaking system using a compatibility scori
    npm run test        (current terminal)
 
 4. You can test this functionalities as well, to do so follow below instructions,
+ ```bash
    npm run getmethod        (another terminal) -- to test get route, getting compatiblity score of two users
    npm run postmethod        (after first request got response then in current terminal) -- to test post route, matches for the user
