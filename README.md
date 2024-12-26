@@ -22,20 +22,3 @@ This project implements a backend matchmaking system using a compatibility scori
 4. You can test this functionalities as well, to do so follow below instructions,
    npm run getmethod        (another terminal) -- to test get route, getting compatiblity score of two users
    npm run postmethod        (after first request got response then in current terminal) -- to test post route, matches for the user
-
-
-
-
-
-
-to our project using any tools like postman, Thunder Client(Vs code extension),etc...
-
-5. You will receive the responses as per you requests.
-
-### Requests
-Data resources are accessed via standard HTTP requests in UTF-8 format to an API endpoint. The Web API uses the following HTTP verbs:
-
-| Method | Action                                       |
-| ------ | -------------------------------------------- |
-| GET    | Retrieves resources                          |
-| POST   | Creates resources                            |
