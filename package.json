@@ -1,9 +1,11 @@
 {
   "name": "matchmaking-_algorithm_development",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node main.js",
+    "getmethod":"node ./test/get.js",
+    "postmethod":"node ./test/post.js"
   },
   "keywords": [],
   "author": "",
